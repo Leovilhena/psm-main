@@ -1,0 +1,93 @@
+Computer applications for PSM lectures 2020/2021
+
+Numeric task 1.
+Design, write and test a computer application that finds the roots of any nonlinear equation entered as initial data, and then solves this nonlinear equation by three methods:
+1. bisection method,
+2. by the regula falsi method and
+3. by secant method,
+and then comparing the results obtained.
+
+Numeric task 2.
+Create computer applications that implement numerical integration 
+1. by the rectangles method,
+2. the trapezoidal method and
+3. parabol method.
+Use these applications to calculate integrals of functions for which you know exactly the results of integration, and then compare and discuss the results obtained.
+
+Numeric task 3.
+Build a computer application that calculates the area of the surface using the Monte Carlo method for
+1. regular geometric figures (squares, rectangles),
+2. any triangles and / or other polygons,
+3. between the coordinate axis 0x and the graph of any function within the specified range of values.
+
+Numeric task 4.
+Build a computer application that implements your own version of the Game of Life.
+
+Numeric task 5.
+Suggest and implement your own version of the Flock computer application so that you can have a greater impact on the behavior of animated objects and the quality of scenes.
+
+Numeric task 6.
+Make a computer application that draws a diagram of the mathematical pendulum motion in phase space
+1. without damping.
+2. with damping.
+in the gravitational field (its values can be changed) and for various deflections from the equilibrium position.
+
+Numeric task 7.
+Propose experiments and implement them in the form of a computer application implementing various variants of vibrations of various mathematical pendulums and drawing a trace of pendulum movements on a horizontal viewport
+1. simple,
+2. complex, consisting of several "sub-pendula".
+Take into account the possibility of changing pendulum parameters.
+
+Numeric task 8.
+Suggest an algorithm for changing the directions and values of velocities after the collision of two material points
+1. with similar masses, and
+2. with very different masses,
+and implement it in the form of a computer application visualizing the results obtained.
+Include the option of changing task parameters.
+
+Numeric task 9.
+Create a computer application calculating the probability that after doing the N  steps the drunkard will be in the position  x = m l, with different probalilites p and q, where
+p �  probability that the drunkard goes left; q =1-
+p  � probability that the drunkard goes right, l � the length of one step,  m l � the length of the walk to the left from the starting position.
+
+Numeric task 10.
+Make the computer applications drawing:
+1. Barnsley fern
+2. Mandelbrot fractal
+3. your own fractal
+
+Numeric task 11.
+Suggest and run a computer application simulating the dynamic system drawing the Lissajous curve.
+
+Numeric task 12.
+Write a computer application (nicely developed graphically) simulating according to Einstein's theory changes inertial body mass with a change in body speed in the inertial reference system.
+And what would this situation look like in a non-inertial frame of reference?
+
+Numeric task 13.
+Play a computer-modified head and head game when instead of coins, players throw dice alternately (one dice, two dice, etc.),
+where e.g. the even sum of the bets on the rolled dice is an eagle, and the odd sum of the bets on the rolled dice is tails.
+How does the game change depending on the number of cubes and the number of players in the game?
+
+Numeric task 14.
+Check how the Holland computer program illustrates how genetic algorithms work: http://www.wiw.pl/modelowanie/spis.asp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

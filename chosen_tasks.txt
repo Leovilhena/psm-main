@@ -1,0 +1,36 @@
+Task 1
+Design, write and test a computer application that finds the roots of any nonlinear equation entered as initial data,
+and then solves this nonlinear equation by three methods:
+1. bisection method,
+2. by the regula falsi method and
+3. by secant method,
+and then comparing the results obtained.
+
+Task 2
+Create computer applications that implement numerical integration
+1. by the rectangles method,
+2. the trapezoidal method and
+3. parabol method.
+Use these applications to calculate integrals of functions for which you know exactly the results of integration,
+and then compare and discuss the results obtained.
+
+Task 4
+Build a computer application that implements your own version of the Game of Life.
+
+Task 5
+Suggest and implement your own version of the Flock computer application
+so that you can have a greater impact on the behavior of animated objects and the quality of scenes.
+
+Task 10
+Make the computer applications drawing:
+1. Barnsley fern
+2. Mandelbrot fractal
+3. your own fractal
+
+Task 11
+Suggest and run a computer application simulating the dynamic system drawing the Lissajous curve.
+
+Task 13
+Play a computer-modified head and head game when instead of coins, players throw dice alternately (one dice, two dice, etc.),
+where e.g. the even sum of the bets on the rolled dice is an eagle, and the odd sum of the bets on the rolled dice is tails.
+How does the game change depending on the number of cubes and the number of players in the game?
